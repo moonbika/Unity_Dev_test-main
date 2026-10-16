@@ -1,0 +1,2 @@
+BuildLabel,UnityVersion,Date,Resolution,Quality,GraphicsDevice,VSyncCount,WarmupSeconds,MeasuredSeconds,Frames,AverageFPS,AverageFrameTimeMs,P95FrameTimeMs,WorstFrameTimeMs,AverageCPU_MainThreadMs,AverageCPU_TotalFrameMs,AverageGPUFrameMs,AverageDrawCalls,AverageBatches,AverageSetPassCalls,AverageTriangles
+"V2","6000.3.10f1","2026-10-16 00:55:19","1920x1080","Ultra","NVIDIA GeForce RTX 4050 Laptop GPU",1,5.00,30.00,11170,372.30,2.69,3.20,55.73,1.63,2.69,1.27,221.74,167.92,89.89,55079.53
